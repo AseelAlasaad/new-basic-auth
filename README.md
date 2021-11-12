@@ -1,10 +1,9 @@
 # basic-auth
 
-[PR](https://github.com/AseelAlasaad/basic-auth/pull/1)
+[PR](https://github.com/AseelAlasaad/new-basic-auth/pull/1)
 
-[Action]()
+[Action](https://github.com/AseelAlasaad/new-basic-auth/actions)
 
-[Heroku dev]()
 
 [Heroku main]()
 
